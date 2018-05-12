@@ -1,0 +1,43 @@
+_repo: The-Well-of-Saint-Clare_18728
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Allinson, A. R. (Alfred Richard)
+    alias: Allinson, Alfred Richard
+    birthdate: 1854
+    gutenberg_agent_id: '8208'
+    url: http://www.gutenberg.org/2009/agents/8208
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Richard_Allinson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: 'Translation of: Le puits de Sainte Claire'
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+tableOfContents: 'Prologue: The Reverend Father Adone Doni -- San Satiro -- Messer
+  Guido Cavalcanti -- Lucifer -- The loaves of black bread -- The merry-hearted Buffalmacco
+  -- The lady of Verona -- The human tragedy -- The mystic blood -- A sound security
+  -- History of Doña Maria d''Avalos and the Duke d''Andria -- Bonaparte at San Miniato.'
+title: The Well of Saint Clare
+url: http://www.gutenberg.org/ebooks/18728
