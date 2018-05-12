@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: 'Translation of: Le puits de Sainte Claire'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18728#The-Well-of-Saint-Clare
 gutenberg_issued: '2006-07-01'
 gutenberg_type: Text
 identifiers:
